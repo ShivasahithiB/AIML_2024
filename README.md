@@ -8,3 +8,4 @@
 # ML-ASSIGNMENT3 https://github.com/ShivasahithiB/AIML_2024/blob/main/2203A51718_ML-3%20(1).pdf
 # ML-ASSIGNMENT4  https://github.com/ShivasahithiB/AIML_2024/blob/main/2203A51718-ML_ASS4.ipynb%20-%20Colaboratory%20(1).pdf
 # ML-ASSIGNMENT5 https://github.com/ShivasahithiB/AIML_2024/blob/main/2203A51718-ML-5_Assign.ipynb%20-%20Colab%20(1).pdf
+# ML-ASSIGNMENT6 https://github.com/ShivasahithiB/AIML_2024/blob/main/ML6_2203A51718.ipynb
